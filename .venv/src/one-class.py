@@ -100,4 +100,3 @@ print('Invalid input')
 print('Maximum is', max_num)
 print('Minimum is', min_num)
 '''
-print('Hello World')
